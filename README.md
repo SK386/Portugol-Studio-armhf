@@ -16,10 +16,15 @@ https://github.com/UNIVALI-LITE/Portugol-Studio/releases/download/v2.7.4/portugo
 Após baixar os arquivos, sigas os seguintes passos:
 
 Descompacte o arquivo do Portugol Studio
+
 Acesse a pasta do Portugol Studio e vá até o diretório /portugol-studio/java
+
 Apague a pasta /java-linux
+
 Descompacte o arquivo do JDK dentro da pasta /portugol-studio/java
+
 Renomeie a pasta do JDK de jdk1.8.0_261 para java-linux
+
 Por fim certifique-se de que a estrutura de diretórios está da seguinte forma:
 
 ################################################################################
