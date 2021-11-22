@@ -23,6 +23,8 @@ Renomeie a pasta do JDK de jdk1.8.0_261 para java-linux
 Por fim certifique-se de que a estrutura de diretórios está da seguinte forma:
 
 ################################################################################
+   
+   
    -- portugol-studio-2.7.4-linux-x64-standalone
         -- arquivos-auxiliares
         -- portugol-studio
@@ -30,5 +32,7 @@ Por fim certifique-se de que a estrutura de diretórios está da seguinte forma:
                 -- bin
                 -- include
                 -- jre
+                
+                
 ################################################################################
 Para executar o Portugol Studio, siga as instruções que se encontram no arquivo leia.txt na raiz da pasta do Portugol Studio.
