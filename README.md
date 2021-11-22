@@ -4,6 +4,7 @@ Portugol Studio para dispositivos arquitetura arm(armhf)
 Não sou responsavel por nenhum dos dados abaixo, os creditos pertecem a 
 Luiz Fernando Noschang: perfil: https://github.com/noschang origem do comentario:https://github.com/UNIVALI-LITE/Portugol-Studio/issues/839
 
+##########################################################################################################################
 
 Para isso, primeiro, baixe o JDK para ARM nesse link: https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html. Se você não tiver uma conta da Oracle será necessário criar uma antes de baixar.
 
